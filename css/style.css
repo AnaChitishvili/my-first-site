@@ -141,8 +141,8 @@ table {
   height: 497px;
   border-radius: 20px;
   padding: 16px;
-  /* text-align: center; */
-  /* margin-top: 120px; */
+  text-align: center;
+  margin-top: 120px;
 }
 img {
   max-width: 100%;
